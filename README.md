@@ -15,6 +15,6 @@
 - *تعلم الآلة:* Scikit-Learn (RandomForestRegressor)
 
 ## 🚀 طريقة التشغيل محلياً (How to Run)
-1. قم باستคลون المستودع:
+1.قم بنسخ المستودع
    ```bash
    git clone [https://github.com/your-username/riyadh-real-estate-app.git](https://github.com/your-username/riyadh-real-estate-app.git)
